@@ -38,7 +38,7 @@ This is the backend for a chatbot service built with Node.js, Express, and power
 1. Clone the repository:
 
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/KietAPCS/Chatbot_Backend.git
    cd backend
    ```
 
