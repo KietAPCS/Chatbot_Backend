@@ -1,4 +1,4 @@
-# SubmitUniverse Backend
+# Chatbot Backend
 
 This is the backend for a chatbot service built with Node.js, Express, and powered by Google Gemini 1.5 Flash AI model.
 
